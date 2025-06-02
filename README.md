@@ -65,19 +65,19 @@ SQL was used to extract, cleanse, and transform data, ensuring integrity and con
    KPIs like clickthrough rates (CTR), ROI, and conversion rates.  
    Visualizations of campaign performance over time.  
 
- Customer Insights Dashboard  
- Purpose: Provides a detailed analysis of customer behaviour and interactions.  
+ Conversion Rate Trends 📉  
+ Purpose: Visualized seasonal trends in customer purchases.  
  Key Features:  
    Drilldown capabilities for customer segmentation.  
    Retention trends and customer engagement levels.  
 
- Content Engagement Dashboard  
+ Social Media Impact 📊  
  Purpose: Analyzes engagement levels with different marketing content.  
  Key Features:  
    Performance of content types (videos, images, blogs).  
    Interaction trends across campaigns.  
 
- Customer Feedback Analysis  
+ Customer Review Analysis 🗣  
  Purpose: Offers insights into customer reviews and sentiment.  
  Key Features:  
    Sentiment analysis (processed using Pandas) categorizing reviews as positive, negative, or mixed.  
